@@ -12,11 +12,9 @@ A responsive React application built with Vite and Tailwind CSS. This project de
 - Reusable UI components (Button, Card, Navbar, Footer, Layout)
 - (Optional) API integration with search and pagination
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-
-image.png
-
+![Task Manager Screenshot](screenshots/Tasks.png)
 
 
 ## 🛠️ Setup Instructions
@@ -37,6 +35,7 @@ image.png
    npm run dev
    ```
    The app will be available at the URL shown in your terminal (e.g., http://localhost:5173).
+
 
 ## 🧰 Technologies Used
 
